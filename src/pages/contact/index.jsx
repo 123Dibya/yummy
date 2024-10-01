@@ -26,7 +26,7 @@ export default function Contact() {
   </div>
   </div>
 
-        <div className="mt-8 py-8 px-4 flex justify-start">
+        <div className="mt-8 py-8 px-4 flex justify-center">
             <div className="mx-40  max-w-lg bg-white p-6 rounded-lg ">
     <h2 className="text-3xl font-bold mb-4 text-gray-600">Send a Message</h2>
 
@@ -92,14 +92,7 @@ export default function Contact() {
         </button>
       </div>
     </form>
-  </div>
-  <div className="mx-40 bg-white p-6 rounded-lg">
-    <h2 className="text-3xl font-bold mb-4 text-gray-600">Contact Info</h2>
-    <p className="mb-4 text-2xl font-bold text-gray-500">Address:VSSUT,Burla</p>
-    <p className="mb-4 text-2xl font-bold text-gray-500">Email:dibyasubudhi167@gmail.com</p>
-    <p className="mb-4 text-2xl font-bold text-gray-500">Phone:xxxxxxxxx</p>
-    <p className="mb-4 text-2xl font-bold text-gray-500">Office Hours:Mon-Fri</p>
-  </div>
+  </div>  
   
 </div>
 
